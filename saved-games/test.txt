@@ -1,0 +1,8 @@
+{:players {"Player" 1, "AI" 2}, :difficulty 10, :round 1, :three-d false, :board [0 0 0 0 0 0 0 0 0], :ui :tui, :save-location :edndb, :parameters ()}
+{:players {"Player" 1, "AI" 2}, :difficulty 10, :round 2, :three-d false, :board [0 0 1 0 0 0 0 0 0], :ui :tui, :save-location :edndb, :parameters ()}
+{:players {"Player" 1, "AI" 2}, :difficulty 10, :round 3, :three-d false, :board [0 0 1 0 2 0 0 0 0], :ui :tui, :save-location :edndb, :parameters ()}
+{:players {"Player" 1, "AI" 2}, :difficulty 10, :round 4, :three-d false, :board [0 1 1 0 2 0 0 0 0], :ui :tui, :save-location :edndb, :parameters ()}
+{:players {"Player" 1, "AI" 2}, :difficulty 10, :round 5, :three-d false, :board [2 1 1 0 2 0 0 0 0], :ui :tui, :save-location :edndb, :parameters ()}
+{:players {"Player" 1, "AI" 2}, :difficulty 10, :round 5, :three-d false, :board [2 1 1 0 2 0 0 0 0], :ui :tui, :save-location :edndb, :parameters ()}
+{:players {"Player" 1, "AI" 2}, :difficulty 10, :round 6, :three-d false, :board [2 1 1 0 2 1 0 0 0], :ui :tui, :save-location :edndb, :parameters ()}
+{:players {"Player" 1, "AI" 2}, :difficulty 10, :round 7, :three-d false, :board [2 1 1 0 2 1 0 0 2], :ui :tui, :save-location :edndb, :parameters ()}

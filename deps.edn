@@ -1,0 +1,9 @@
+{:deps {org.clojure/clojure {:mvn/version "1.10.3"}
+        quil/quil {:mvn/version "4.3.1563"}
+        org.clojure/java.jdbc {:mvn/version "0.7.12"}
+        speclj/speclj {:mvn/version "3.4.2" :scope "test"}
+        org.postgresql/postgresql {:mvn/version "42.7.3" :scope "test"}}
+ :extra-paths ["src"]
+ :aliases {:test {:extra-deps {speclj/speclj {:mvn/version "3.4.2"}
+                               org.postgresql/postgresql {:mvn/version "42.7.3"}}}}
+ }

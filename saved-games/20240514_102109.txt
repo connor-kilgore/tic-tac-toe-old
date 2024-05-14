@@ -1,0 +1,9 @@
+{:save-location :edndb, :difficulty 10, :three-d false, :round 1, :ui :tui, :three-d? nil, :players {"Player" 1, "AI" 2}, :parameters (), :board [0 0 0 0 0 0 0 0 0]}
+{:save-location :edndb, :difficulty 10, :three-d false, :round 2, :ui :tui, :three-d? nil, :players {"Player" 1, "AI" 2}, :parameters (), :board [0 1 0 0 0 0 0 0 0]}
+{:save-location :edndb, :difficulty 10, :three-d false, :round 3, :ui :tui, :three-d? nil, :players {"Player" 1, "AI" 2}, :parameters (), :board [0 1 0 0 0 0 0 2 0]}
+{:save-location :edndb, :difficulty 10, :three-d false, :round 4, :ui :tui, :three-d? nil, :players {"Player" 1, "AI" 2}, :parameters (), :board [0 1 1 0 0 0 0 2 0]}
+{:save-location :edndb, :difficulty 10, :three-d false, :round 5, :ui :tui, :three-d? nil, :players {"Player" 1, "AI" 2}, :parameters (), :board [2 1 1 0 0 0 0 2 0]}
+{:save-location :edndb, :difficulty 10, :three-d false, :round 6, :ui :tui, :three-d? nil, :players {"Player" 1, "AI" 2}, :parameters (), :board [2 1 1 0 1 0 0 2 0]}
+{:save-location :edndb, :difficulty 10, :three-d false, :round 7, :ui :tui, :three-d? nil, :players {"Player" 1, "AI" 2}, :parameters (), :board [2 1 1 0 1 0 2 2 0]}
+{:save-location :edndb, :difficulty 10, :three-d false, :round 8, :ui :tui, :three-d? nil, :players {"Player" 1, "AI" 2}, :parameters (), :board [2 1 1 0 1 1 2 2 0]}
+{:save-location :edndb, :difficulty 10, :three-d false, :round 9, :ui :tui, :three-d? nil, :players {"Player" 1, "AI" 2}, :parameters (), :board [2 1 1 2 1 1 2 2 0]}
