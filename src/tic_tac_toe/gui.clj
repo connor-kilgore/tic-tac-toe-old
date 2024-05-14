@@ -108,7 +108,7 @@
   (reset! state (:game game))
   (reset! selection nil)
   (wait-for-selection)
-  (tttb/increment-round (assoc game
+  (tttb/increment-round (assoc (:game game)
                           :board (tttb/place-value-into-tttb
                                    (:board (:game game)) (:symbol game) @selection))))
 
