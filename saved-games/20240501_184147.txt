@@ -1,2 +1,0 @@
-{:save-location :edndb, :difficulty 10, :three-d false, :round 1, :ui :tui, :three-d? nil, :players {"Player" 1, "AI" 2}, :parameters (), :board [0 0 0 0 0 0 0 0 0]}
-{:save-location :edndb, :difficulty 10, :three-d false, :round 1, :ui :tui, :three-d? nil, :players {"Player" 1, "AI" 2}, :parameters (), :board [0 0 0 0 0 0 0 0 0]}
